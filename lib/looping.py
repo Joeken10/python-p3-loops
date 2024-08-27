@@ -25,4 +25,4 @@ def fizzbuzz():
             print("Buzz")
         else:
             print(i)
-    
+    pass
