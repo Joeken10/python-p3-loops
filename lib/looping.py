@@ -7,7 +7,7 @@ def happy_new_year():
         print(i)
         i -= 1
     print("Happy New Year!")
-    
+    pass
    
 def square_integers(int_list):
     # code goes here!
